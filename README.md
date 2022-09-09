@@ -4,7 +4,7 @@
     </a>
 </p>
 
-## Starter project basado en [WebDriverIO](https://webdriver.io/), [Appium](http://appium.io/), [Cucumber](https://cucumber.io/), [TypeScript](https://www.typescriptlang.org/), [Allure Report](https://docs.qameta.io/allure-report/), [Node.js](https://nodejs.org/en/) con soporte multi-browser mediante [Docker](https://www.docker.com/) y [Selenium Grid](https://github.com/SeleniumHQ/docker-selenium)
+## Starter project basado en [WebDriverIO](https://webdriver.io/), [Appium](http://appium.io/), [Cucumber](https://cucumber.io/), [TypeScript](https://www.typescriptlang.org/), [Allure Report](https://docs.qameta.io/allure-report/), [Node.js](https://nodejs.org/en/)
 
 ### Requerimientos generales
 
